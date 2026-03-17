@@ -233,7 +233,6 @@ This is a portfolio project built to demonstrate a complete, production-style ML
 - Honest model evaluation
 - Deployable REST API
 
-Built by Suman Acharya as part of an ML engineering learning path.
 
 ---
 
